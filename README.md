@@ -63,8 +63,9 @@ The daily sales forecast is used to support a variety of data driven business de
     
 ## Results
 
+
 | Model   | RMSE  |  MAE |
-| ---------------------- |
+| --------| ------|  --- |
 | Prophet | ~2041 | 1589 |
 | LSTM    | ~2469 | 1618 |
 
