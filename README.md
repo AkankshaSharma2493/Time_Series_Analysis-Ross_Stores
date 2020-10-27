@@ -64,10 +64,10 @@ The daily sales forecast is used to support a variety of data driven business de
 ## Results
 
 
-| Model   | RMSE  |  MAE |
-| --------| ------|  --- |
-| Prophet | ~2041 | 1589 |
-| LSTM    | ~2469 | 1618 |
+| Model   | RMSE  |  MAE  |
+| --------| ------|  ---- |
+| Prophet | ~2041 | ~1589 |
+| LSTM    | ~2469 | ~1618 |
 
 ## Model Comparison and Selection
 a) It can be seen from the above metrics that Prophet model performed better than the LSTM. This can be justified because of following reasons in addition to better
